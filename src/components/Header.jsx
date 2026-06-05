@@ -8,7 +8,7 @@ export default function Header() {
           <Terminal className="w-8 h-8" />
           <div>
             <h1 className="text-2xl font-bold tracking-tight">
-              MAPS<span className="text-white/50">_</span>SCRAPER
+              BULKING<span className="text-white/50">_</span>
             </h1>
             <p className="text-xs text-white/50 mt-1">
               {'>'} EXTRACT DATA FROM GOOGLE MAPS
